@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Date Picker</name>
+   <tag></tag>
+   <elementGuidId>901ea572-c794-46ef-8bf0-385673de9bf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.input-group-append.input-group-text > span.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frm_attendenceapproval']/div/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#frm_attendenceapproval >> internal:text=&quot;event&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdbb57c7-85cc-4dd9-a415-d0c2424a0a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>3754de84-4aba-4be9-8af3-2c2818262652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>event</value>
+      <webElementGuid>68be6f1b-24f2-446c-940b-cef7dd1ee8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frm_attendenceapproval&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;form-row mb-2&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-md-6 col-sm-6 form-group&quot;]/div[@class=&quot;input-group input-append date&quot;]/span[@class=&quot;input-group-append input-group-text&quot;]/span[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>48a3729c-b11f-4476-8e5a-502fdc7694d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frm_attendenceapproval']/div/div/div/div/span/span</value>
+      <webElementGuid>99eb591b-2f0e-4907-a001-ee926c4628ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendance Approval For Date'])[1]/following::span[2]</value>
+      <webElementGuid>b76c64a7-dffe-480f-a9fc-4615368f7ca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Your Attendance'])[1]/following::span[2]</value>
+      <webElementGuid>87ad68cf-9d8d-4159-af17-acd2191172b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason for no punch'])[1]/preceding::span[1]</value>
+      <webElementGuid>c51d88be-300a-452a-9bdc-2838c172cd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/preceding::span[1]</value>
+      <webElementGuid>8329affc-4d47-41e7-a006-1f747709004c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='event']/parent::*</value>
+      <webElementGuid>6bbd3757-d179-4118-bcc9-a19834c08829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>15264347-6c00-446a-b787-13b9bfe7ef33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'event' or . = 'event')]</value>
+      <webElementGuid>29f6665d-8ccf-45f5-8967-87dc3430f14a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

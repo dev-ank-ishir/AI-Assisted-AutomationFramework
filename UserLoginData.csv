@@ -1,0 +1,4 @@
+﻿username,password,role
+testuser1,Pass@123,Admin
+testuser2,Pass@456,Editor
+invalid_user,wrongpass,Invalid
